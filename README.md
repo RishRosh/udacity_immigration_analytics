@@ -2,7 +2,7 @@
 ## Data Engineering Capstone Project - Udacity
 #### Objective: To empower U.S CBP (Customs & Border Protection) in making better decisions based on immigration patterns
 
-<img src="https://github.com/saurabhsoni5893/US-Immigration-Data-Lake/blob/master/images/DataLake.png" align="centre">
+<img src="https://github.com/RishRosh/udacity_immigration_analytics/blob/master/images/Front.jpg" align="centre">
 
 ## Overview
 
@@ -20,7 +20,7 @@ The complete solution is based on top of **Amazon Web Services (AWS)**. The data
 
 #### The Data Model
 
-![](https://github.com/saurabhsoni5893/US-Immigration-Data-Lake/blob/master/images/star-schema.PNG)
+<img src="https://github.com/RishRosh/udacity_immigration_analytics/blob/master/images/Conceptual.jpg" align="centre">
 
 ## Structure of the Project
 

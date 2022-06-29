@@ -44,7 +44,7 @@ The project can be broken down in to two ETL loads:
 
 #### ETL - 2:
 - **etl2.py** - File that creates Redshift tables, copies data from S3 and loads star schema.<br>
-        1. `creates_tables.py` script can be run to simply create/re-create tables<br>
+        1. `creates_tables2.py` script can be run to simply create/re-create tables<br>
         2. Uses `dwh2.cfg` file to load the configurations for Redshift cluster and S3 bucket<br>
         3. File `etl2.ipynb` is a Jupyter notebook to get step-by-step execution of the load<br>
 

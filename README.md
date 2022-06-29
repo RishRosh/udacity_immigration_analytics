@@ -22,6 +22,8 @@ The complete solution is based on top of **Amazon Web Services (AWS)**. The data
 
 <img src="https://github.com/RishRosh/udacity_immigration_analytics/blob/master/images/Conceptual.jpg" align="centre">
 
+<img src="https://github.com/RishRosh/udacity_immigration_analytics/blob/master/images/DataModel.jpg" align="centre">
+
 ## Structure of the Project
 
 The project can be broken down in to two ETL loads: 

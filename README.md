@@ -57,4 +57,4 @@ Following the Udacity guide for this project, the structure is as shown below:
  - Step 5: Complete Project Write Up
 
 *** For exploring further, please go to the 
-Link: [US_Immigration_Data_Lake](https://github.com/saurabhsoni5893/US-Immigration-Data-Lake/blob/master/US_Immigration_Data_Lake.ipynb)
+Link: [US_Immigration_Analytics](https://github.com/RishRosh/udacity_immigration_analytics/blob/master/Capstone.ipynb)

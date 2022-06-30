@@ -2,7 +2,7 @@
 ## Data Engineering Capstone Project - Udacity
 #### Objective: To empower U.S CBP (Customs & Border Protection) in making better decisions based on immigration patterns
 
-<img src="https://github.com/saurabhsoni5893/US-Immigration-Data-Lake/blob/master/images/DataLake.png" align="centre">
+<img src="https://github.com/RishRosh/udacity_immigration_analytics/blob/master/images/Front.jpg" align="centre">
 
 ## Overview
 
@@ -20,7 +20,9 @@ The complete solution is based on top of **Amazon Web Services (AWS)**. The data
 
 #### The Data Model
 
-![](https://github.com/saurabhsoni5893/US-Immigration-Data-Lake/blob/master/images/star-schema.PNG)
+<img src="https://github.com/RishRosh/udacity_immigration_analytics/blob/master/images/Conceptual.jpg" align="centre">
+
+<img src="https://github.com/RishRosh/udacity_immigration_analytics/blob/master/images/DataModel.jpg" align="centre">
 
 ## Structure of the Project
 
@@ -42,7 +44,7 @@ The project can be broken down in to two ETL loads that process the datasets. Th
 
 #### ETL - 2:
 - **etl2.py** - File that creates Redshift tables, copies data from S3 and loads star schema.<br>
-        1. `creates_tables.py` script can be run to simply create/re-create tables<br>
+        1. `creates_tables2.py` script can be run to simply create/re-create tables<br>
         2. Uses `dwh2.cfg` file to load the configurations for Redshift cluster and S3 bucket<br>
         3. File `etl2.ipynb` is a Jupyter notebook to get step-by-step execution of the load<br>
 
@@ -55,4 +57,4 @@ Following the Udacity guide for this project, the structure is as shown below:
  - Step 5: Complete Project Write Up
 
 *** For exploring further, please go to the 
-Link: [US_Immigration_Data_Lake](https://github.com/saurabhsoni5893/US-Immigration-Data-Lake/blob/master/US_Immigration_Data_Lake.ipynb)
+Link: [US_Immigration_Analytics](https://github.com/RishRosh/udacity_immigration_analytics/blob/master/Capstone.ipynb)

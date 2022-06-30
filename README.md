@@ -26,7 +26,8 @@ The complete solution is based on top of **Amazon Web Services (AWS)**. The data
 
 ## Structure of the Project
 
-The project can be broken down in to two ETL loads that process the datasets. The final data model will have **15 Million + **  records. 
+The project can be broken down in to two ETL loads that process the datasets. The final data model will have <b>15 Million +</b>   records. 
+
 #### ETL - 1:
 - **etl1.py** - File that was ran on EMR cluster to load S3 data. It outputs staging files back in S3. These are the steps: <br>
         1. EMR with applications: Spark 2.4.4, Zeppelin 0.8.2, Livy 0.6.0, JupyterHub 1.0.0 <br>
